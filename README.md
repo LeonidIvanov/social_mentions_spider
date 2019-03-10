@@ -1,4 +1,4 @@
-#Social Mentions Scraper
+# Social Mentions Scraper
 
 Scrapes google search by provided query and search results to check them for social networks mentions.
 
