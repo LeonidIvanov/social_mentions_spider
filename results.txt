@@ -1,0 +1,15 @@
+zoominfo, https://www.zoominfo.com/c/jdeufel-construction-services-inc/357710594, Yes, Yes, Yes
+minocqua, https://www.minocqua.org/listing/scheers-lumberjack-shows/876/, No, No, No
+beamcarlow, https://beamcarlow.wordpress.com/, No, No, No
+facebook, https://www.facebook.com/BAACPAS/, Yes, Yes, Yes
+bbb, https://www.bbb.org/us/tx/arlington/profile/financial-services/buehrer-associates-cpas-0825-235975387, Yes, Yes, No
+zoominfo, https://www.zoominfo.com/c/armor-construction-and-design-inc/350974478, Yes, Yes, Yes
+day1solar, https://day1solar.com/, No, No, No
+wikipedia, https://en.wikipedia.org/wiki/Double_Robotics, No, No, No
+crunchbase, https://www.crunchbase.com/organization/taptic-toys, Yes, Yes, Yes
+wikipedia, https://en.wikipedia.org/wiki/Independent_contractor, No, No, No
+battlebots, https://battlebots.com/, Yes, Yes, Yes
+thipro, https://thipro.com/victors-remodeling-and-construction, Yes, Yes, Yes
+facebook, https://www.facebook.com/pages/category/Local-Business/Topaz-Fire-Protection-503103756506568/, Yes, Yes, Yes
+paigeelectric, http://www.paigeelectric.com/lovo/simplex.grinnel.home.html, No, No, No
+facebook, https://www.facebook.com/oakstudiofit/, Yes, Yes, Yes
